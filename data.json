@@ -5,7 +5,8 @@
       "price": 110,
       "color": "white",
       "category": "sneakers",
-      "size": "lg"
+      "size": "lg",
+       "id": 1
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
@@ -13,7 +14,8 @@
       "price": 91,
       "color": "vintage-red",
       "category": "Shoes",
-      "size": "m"
+      "size": "m",
+       "id": 2
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
@@ -21,7 +23,8 @@
       "price": 94,
       "color": "pink",
       "category": "Shoes",
-      "size": "lg"
+      "size": "lg",
+      "id": 3
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
@@ -29,7 +32,8 @@
       "price": 143,
       "color": "black",
       "category": "boots",
-      "size": "lg"
+      "size": "lg",
+      "id": 4
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
@@ -37,7 +41,8 @@
       "price": 150,
       "color": "thailand",
       "category": "bangkok",
-      "size": "m"
+      "size": "m",
+      "id":5
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
@@ -45,7 +50,8 @@
       "price": 250,
       "color": "white",
       "category": "Shoes",
-      "size": "lg"
+      "size": "lg",
+      "id": 6
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
@@ -53,7 +59,8 @@
       "price": 50,
       "color": "white",
       "category": "Shoes",
-      "size": "xs"
+      "size": "xs",
+      "id": 7
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
@@ -61,7 +68,8 @@
       "price": 85,
       "color": "White",
       "category": "sneakers",
-      "size": "sm"
+      "size": "sm",
+      "id": 8
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
@@ -69,6 +77,7 @@
       "price": 125,
       "color": "yellow",
       "category": "sneakers",
-      "size": "xl"
+      "size": "xl",
+      "id": 9
     }
   ]
